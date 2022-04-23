@@ -3,11 +3,11 @@
   Hello ! I'm Arsen Shahinyan
   <div align = "center">
   A C++ developer from Armenia
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/UzwgWPsxL4nss7PRWV/giphy.gif" width="40px"/>
   <div align = "center">
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300"/>
 </div>
 <h1>
   <div align = "center">
