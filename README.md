@@ -7,7 +7,6 @@
 </div>
 <h1>
   <div align = "center">
-  My GitHub stats
 </h1>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=ArsenSh&theme=tokyonight" width = "400px"/>
