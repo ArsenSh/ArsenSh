@@ -18,6 +18,5 @@
 <div align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a> 
   <div align = "center">
 <h1>
-  <img src = "https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width = "50px">
   <img src="https://activity-graph.herokuapp.com/graph?username=ArsenSh&theme=xcode">
 </h1>
