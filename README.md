@@ -1,8 +1,6 @@
 <h1>
   <div align = "center">
-  Hello ! I'm Arsen Shahinyan
   <div align = "center">
-  A C++ developer from Armenia
   <div align = "center">
 </h1>
 <div align="center">
