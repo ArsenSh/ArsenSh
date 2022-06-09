@@ -15,7 +15,7 @@
 <h1>
   <div align = "left">
 </h1>
-<div align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  alt="linux" width="75" height="75"/> </a> </p>
+<div align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a> 
   <div align = "center">
 <h1>
   <img src = "https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width = "50px">
