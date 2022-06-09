@@ -3,16 +3,13 @@
   Hello ! I'm Arsen Shahinyan
   <div align = "center">
   A C++ developer from Armenia
-  
   <div align = "center">
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300"/>
 </div>
 <h1>
   <div align = "center">
   My GitHub stats
-  <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width = "50px" length = "50px"/>
 </h1>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=ArsenSh&theme=tokyonight" width = "400px"/>
