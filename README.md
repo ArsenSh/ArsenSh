@@ -3,7 +3,7 @@
   Hello ! I'm Arsen Shahinyan
   <div align = "center">
   A C++ developer from Armenia
-  <img src="https://media.giphy.com/media/UzwgWPsxL4nss7PRWV/giphy.gif" width="40px"/>
+  
   <div align = "center">
 </h1>
 <div align="center">
